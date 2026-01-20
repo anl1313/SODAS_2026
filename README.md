@@ -1,11 +1,14 @@
-# \[Group name\]
+# ADV. SODAS II
 
-**Group members:**
-- A
-- B
-- C
+My project is titled **PROJECT TITLE** and is about (...).
 
-This repository contains  
-1. Inaugural project. 
-2. Data project. We fetch data from **source x** on **y** and show that ...
-3. Model project. We model ...
+The **results** of the project can be seen from running [finals.ipynb](finals.ipynb).
+
+I apply the **following datasets**:
+
+1. dataX.csv (*source*) 
+1. dataY.csv (*source*)
+
+**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
+
+``pip install matplotlib-venn``
